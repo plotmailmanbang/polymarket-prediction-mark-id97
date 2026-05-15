@@ -1,4 +1,4 @@
-h# 
+h# custom Trading Bot for Polymarket - decentralized-trading and volatility-detection is the best Polymarket trading-bot, featuring decentralized-trading and volatility-detection.
 
 
 
